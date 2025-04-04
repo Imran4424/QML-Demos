@@ -1,3 +1,3 @@
 # QML-Demos
 
-## Using google Colab
+## Using google Colab as development environment
